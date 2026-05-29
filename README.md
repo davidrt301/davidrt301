@@ -34,7 +34,7 @@ I am a software development enthusiast with a strong focus on the **Java** ecosy
 *   Spring Boot, Spring Security, Hibernate, RESTful APIs.
 
 **Databases:**
-*   PostgreSQL, MongoDB.
+*   PostgreSQL.
 
 **Tools & DevOps:**
 *   **Testing:** JUnit, Mockito.
